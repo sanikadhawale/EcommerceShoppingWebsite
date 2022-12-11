@@ -1,0 +1,7 @@
+127.0.0.1 - - [17/Aug/2022:10:00:59 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [17/Aug/2022:10:01:21 +0530] "GET /shopping-cart/index.jsp HTTP/1.1" 500 2178
+127.0.0.1 - - [17/Aug/2022:10:03:36 +0530] "GET /shopping-cart/index.jsp HTTP/1.1" 500 2178
+127.0.0.1 - - [17/Aug/2022:10:03:40 +0530] "GET /shopping-cart/index.jsp HTTP/1.1" 500 2178
+127.0.0.1 - - [17/Aug/2022:10:03:42 +0530] "GET /shopping-cart/index.jsp HTTP/1.1" 500 2838
+127.0.0.1 - - [17/Aug/2022:10:04:26 +0530] "GET /shopping-cart/index.jsp HTTP/1.1" 500 2178
+127.0.0.1 - - [17/Aug/2022:10:05:26 +0530] "GET /shopping-cart/index.jsp HTTP/1.1" 500 2178
