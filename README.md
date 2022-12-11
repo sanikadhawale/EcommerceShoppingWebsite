@@ -1,0 +1,2 @@
+• Developed a Java EE Maven project to create a sports goods shopping website having the functionalities of login/logout using session management, adding to cart, viewing my orders, checking out.
+• Implemented the MVC model using JSP for view, Bootstrap 4.0 for styling, HTTPServlets as controller, DAO layer to talk to the database. Used MySQL server to store the data and used Tomcat 9.0 server to run the application.
